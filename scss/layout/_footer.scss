@@ -1,0 +1,17 @@
+footer{
+    border: 1px  solid gray;
+    height: 4rem;
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-top: 150px;
+    img{
+        height: 4rem;
+    }
+    p{
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+  }
